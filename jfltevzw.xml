@@ -3,7 +3,7 @@
   <remote name="git" 
           fetch="git://github.com/"/>
 
-  <project name="CyanogenMod/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="git" revision="cm-12.0"/>
+  <project name="TeamLiteSpeed/android_device_samsung_jfltevzw" path="device/samsung/jfltevzw" remote="git" revision="cm-12.0"/>
   <project name="CyanogenMod/android_kernel_samsung_jf" path="kernel/samsung/jf" remote="git" revision="cm-12.0"/>
   <project name="TheMuppets/proprietary_vendor_samsung" path="vendor/samsung" remote="git" revision="cm-12.0"/>
   <project name="CyanogenMod/android_device_samsung_jf-common" path="device/samsung/jf-common" remote="git" revision="cm-12.0"/>
